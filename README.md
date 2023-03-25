@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loicnaoussi
-- 👀 I’m interested by the  dada ingenieuring and security
+- 👀 I’m interested by the  data ingenieuring and security
 - 🌱 I’m currently learning python language 
 - 💞️ I’m looking to collaborate on  python programming
 - 📫 How to reach me   loicnaoussi@gmail.com
