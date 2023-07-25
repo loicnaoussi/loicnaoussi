@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loicnaoussi
-- 👀 I’m interested by the  data ingenieuring and security
-- 🌱 I’m currently learning python language 
-- 💞️ I’m looking to collaborate on  python programming
+- 👀 I’m interested by the  data ingenieuring and web Developpement
+- 🌱 I’m currently learning for Gsoc 2024
+- 💞️ I’m looking to collaborate Gsoc Project
 - 📫 How to reach me   loicnaoussi@gmail.com
 
 <!---
