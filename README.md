@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loicnaoussi
 - 👀 I’m interested by the  data ingenieuring and web Developpement
-- 🌱 I’m currently learning for Gsoc 2024
+- 🌱 I’m currently learning for Gsoc 2025
 - 💞️ I’m looking to collaborate Gsoc Project
 - 📫 How to reach me   loicnaoussi@gmail.com
 
